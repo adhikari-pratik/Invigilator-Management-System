@@ -124,8 +124,3 @@ The database consists of the following key entities:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/Invigilator-Management-System](https://github.com/yourusername/Invigilator-Management-System)
