@@ -1,0 +1,24 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+
+# Environment variables file
+.env
+
+# Build output
+/dist
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sequelize files (if any)
+*.sequelize
+
+images/
